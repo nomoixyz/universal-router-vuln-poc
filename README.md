@@ -8,6 +8,11 @@ The PoC code can be found in [`./test/Hack.t.sol`](./test/Hack.t.sol).
 $ forge install
 ```
 
+Create an `.env` file with your Alchemy API key:
+```
+ALCHEMY_API_KEY=<key>
+```
+
 ### Running the tests
 
 ```
